@@ -1,0 +1,15 @@
+/Users/tankaixuan/Projects/Classes/Classes/bin/Debug/net7.0/Classes
+/Users/tankaixuan/Projects/Classes/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/tankaixuan/Projects/Classes/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/tankaixuan/Projects/Classes/Classes/bin/Debug/net7.0/Classes.dll
+/Users/tankaixuan/Projects/Classes/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.dll
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/tankaixuan/Projects/Classes/Classes/obj/Debug/net7.0/ref/Classes.dll
