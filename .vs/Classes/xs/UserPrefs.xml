@@ -1,7 +1,12 @@
-﻿<Properties StartupConfiguration="{67521B14-2B84-4C06-BBF1-11F2854E9463}|Default" GitUserInfo="UsingMD">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{67521B14-2B84-4C06-BBF1-11F2854E9463}|Default">
+  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Classes/Program.cs">
     <Files>
-      <File FileName="Classes/Program.cs" Line="7" Column="6" />
+      <File FileName="Classes/Program.cs" Line="6" Column="7" />
+      <File FileName="Classes/Point.cs" Line="11" Column="14" />
+      <File FileName="Classes/Calculator.cs" Line="1" Column="1" />
+      <File FileName="Classes/Customer.cs" Line="24" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,20 +18,14 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="Classes" expanded="True">
-            <Node name="Classes" selected="True" />
-          </Node>
-        </State>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
